@@ -14,6 +14,7 @@
 | [0001-two-sum](https://github.com/dasjagdish2006-sudo/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dasjagdish2006-sudo/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/dasjagdish2006-sudo/LeetCode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/dasjagdish2006-sudo/LeetCode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [0001-two-sum](https://github.com/dasjagdish2006-sudo/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dasjagdish2006-sudo/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dasjagdish2006-sudo/LeetCode/tree/master/0027-remove-element) |
+| [0217-contains-duplicate](https://github.com/dasjagdish2006-sudo/LeetCode/tree/master/0217-contains-duplicate) |
 ## Sliding Window
 |  |
 | ------- |
@@ -62,4 +64,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dasjagdish2006-sudo/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/dasjagdish2006-sudo/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
