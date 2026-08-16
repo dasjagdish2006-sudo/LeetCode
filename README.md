@@ -55,6 +55,7 @@
 | [0027-remove-element](https://github.com/dasjagdish2006-sudo/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/dasjagdish2006-sudo/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/dasjagdish2006-sudo/LeetCode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/dasjagdish2006-sudo/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/dasjagdish2006-sudo/LeetCode/tree/master/0217-contains-duplicate) |
 ## Sliding Window
 |  |
@@ -68,6 +69,7 @@
 | [0027-remove-element](https://github.com/dasjagdish2006-sudo/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dasjagdish2006-sudo/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/dasjagdish2006-sudo/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/dasjagdish2006-sudo/LeetCode/tree/master/0088-merge-sorted-array) |
 ## String Matching
 |  |
 | ------- |
@@ -79,6 +81,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/dasjagdish2006-sudo/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/dasjagdish2006-sudo/LeetCode/tree/master/0217-contains-duplicate) |
 ## Trie
 |  |
